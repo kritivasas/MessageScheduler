@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+		<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			android:orientation="horizontal"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content" >
+		<TextView
+			android:id="@+id/Topic"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" />
+		<TextView
+			android:id="@+id/df"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip"
+			android:text=" at " />
+		<TextView
+			android:id="@+id/Timeh"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" />
+		<TextView
+			android:id="@+id/df"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" 
+			android:text="H : "/>
+		<TextView
+			android:id="@+id/Timem"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" />
+		<TextView
+			android:id="@+id/df"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" 
+			android:text="M on "/>
+		<TextView
+			android:id="@+id/Date"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" />
+		<TextView
+			android:id="@+id/df"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" 
+			android:text="-"/>
+		<TextView
+			android:id="@+id/Month"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" />
+		<TextView
+			android:id="@+id/df"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" 
+			android:text="-"/>
+		<TextView
+			android:id="@+id/Year"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" />
+		<TextView
+			android:id="@+id/df"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="15dip" 
+			android:text="     "/>
+		</LinearLayout>
+
+</LinearLayout>

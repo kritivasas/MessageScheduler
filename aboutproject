@@ -1,0 +1,26 @@
+Author:
+	Kritivasas Shukla
+	kritivas.shukla@gmail.com
+	IIT2008101
+	IIIT-Allahabad
+What Project Does:
+	It allows you to add an reminder
+	It allows you to view reminder	
+	When time to execute reminder arrives
+	it shows notification and sends SMS on the number you gave
+How To Use It:
+	*The main tab you see is to view reminder
+	*the tab with + icon is the one to add reminder
+About:
+	I used resources(and some code) from many websites to create this project
+	The basic learning came from developers.android.com
+	
+This is my first android and java(after a long time) expreience, So bear with me
+
+minimum SDK version=7
+Android 2.0+
+Tested on HTC touch
+Best viewed on WVGA800,WVGA432
+
+Some layout problems may be there for some display I tried to solve it for most
+Uses SQLite database
